@@ -1,9 +1,6 @@
 # MARIO LAND
 
-  * LIVE LINK: https://pages.git.generalassemb.ly/lisaward50/First-Project/
-
-  * SCREENCAST: https://youtu.be/B9HmNF4FJ-E
-
+  * LIVE LINK: https://lisaward50.github.io/mario/
 
   * TECHNOLOGIES:
 
